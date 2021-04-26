@@ -1,8 +1,8 @@
 # lseg-code-challenge
 
-==============================
+
 Cumulative Returns Calculator
-==============================
+----------------------------
 
 Tech-stack :
 -----------
