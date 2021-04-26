@@ -1,8 +1,8 @@
 # lseg-code-challenge
 
-==========================================
+==============================
 Cumulative Returns Calculator
-==========================================
+==============================
 
 Tech-stack :
 -----------
@@ -11,7 +11,8 @@ Tech-stack :
 
 How to Execute:
 ---------------
- Run the Main function : com\lseg\CumulativeReturnCalculatorMain.java
+Run Maven : mvn clean install
+Run the Main function : com\lseg\CumulativeReturnCalculatorMain.java
  console input : Enter As of Date (YYYY-MM-DD)  [e.g:- 2015-06-30]
  console input : Enter Base Date (YYYY-MM-DD) [e.g:- 2015-02-01]
  IF the date formats are correct, the value printed on the console:
